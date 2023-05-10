@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do 
-ArthMF88 😁  <img aling="right" alt="atom" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
+## Bem-vindo(a) ao perfil               <img aling="right" alt="atom" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
+Arthur                     
 
  <div>
    <a href="https://github.com/ArthMF88">
