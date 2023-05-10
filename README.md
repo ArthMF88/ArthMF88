@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do 
-ArthMF88 😁
+ArthMF88 😁  <img aling="right" alt="atom" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg">
 
  <div>
    <a href="https://github.com/ArthMF88">
@@ -15,8 +15,7 @@ ArthMF88 😁
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+  ### Iniciante em programação, procurando especialização 
 <div> 
  
   <a href="https://www.instagram.com/arthurmarques970" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
